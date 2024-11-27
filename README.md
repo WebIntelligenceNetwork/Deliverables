@@ -11,3 +11,7 @@ WP 1   - Coordination, support and dissemination
 WP 2   - OJA and OBEC software
 WP 3   - New use-cases
 WP 4   - Methodology and Quality
+
+# Table of content
+- WP4/D4_1.pdf: Deliverable 4.1: Minimal guidelines and recommendations for
+implementation
