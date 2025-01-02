@@ -15,4 +15,7 @@ WP 4   - Methodology and Quality
 # Table of content
 - WP4/D4_1.pdf: Deliverable 4.1: Minimal guidelines and recommendations for
 implementation
+- WP4/D4_5.pdf: Deliverable 4.5: Quality Guidelines for acquiring and using web scraped data
+- WP4/D4_6.pdf: Deliverable 4.6: Methodology report on using webscraped data
 - WP4/D4_7.pdf: Deliverable 4.7: BREAL - Big Data REference Architecture and Layers for web scraped data
+- WP4/D4_8.pdf: Deliverable 4.8: Quality Assessment for the Statistical Use of Web Scraped Data
