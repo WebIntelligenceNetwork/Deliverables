@@ -13,9 +13,19 @@ WP 3   - New use-cases
 WP 4   - Methodology and Quality
 
 # Table of content
-- WP4/D4_1.pdf: Deliverable 4.1: Minimal guidelines and recommendations for
+
+- [WP3/D3_4_WP3_UC1.pdf](WP3/D3_4_WP3_UC1.pdf): Final report UC1 on Characteristics of the real estate market
+- [WP3/D3_6_WP3_UC2.pdf](WP3/D3_6_WP3_UC2.pdf): Final report UC2 on Construction activities
+- [WP3/D3_7_WP3_UC3.pdf](WP3/D3_7_WP3_UC3.pdf): Final report UC3 on Online prices of household appliances and audio-visual, photographic and information
+processing equipment
+- [WP3/D3_9_WP3_UC4.pdf](WP3/D3_9_WP3_UC4.pdf): Final report1 UC4 on Experimental indices in tourism statistics
+- [WP3/D3_10_WP3_UC4.pdf](WP3/D3_10_WP3_UC4.pdf): Final report2 UC4 on Experimental indices in tourism statistics
+- [WP3/D3_11_WP3_UC5.pdf](WP3/D3_11_WP3_UC5.pdf): Final report UC5 on Business register quality enhancement
+- [WP3/D3_12_WP3_UC6.pdf](WP3/D3_12_WP3_UC6.pdf): Final report UC6 on Faster Economic Indicators using new data sources
+
+- [WP4/D4_1.pdf](WP4/D4_1.pdf): Deliverable 4.1: Minimal guidelines and recommendations for
 implementation
-- WP4/D4_5.pdf: Deliverable 4.5: Quality Guidelines for acquiring and using web scraped data
-- WP4/D4_6.pdf: Deliverable 4.6: Methodology report on using webscraped data
-- WP4/D4_7.pdf: Deliverable 4.7: BREAL - Big Data REference Architecture and Layers for web scraped data
-- WP4/D4_8.pdf: Deliverable 4.8: Quality Assessment for the Statistical Use of Web Scraped Data
+- [WP4/D4_5.pdf](WP4/D4_5.pdf): Deliverable 4.5: Quality Guidelines for acquiring and using web scraped data
+- [WP4/D4_6.pdf](WP4/D4_6.pdf): Deliverable 4.6: Methodology report on using webscraped data
+- [WP4/D4_7.pdf](WP4/D4_7.pdf): Deliverable 4.7: BREAL - Big Data REference Architecture and Layers for web scraped data
+- [WP4/D4_8.pdf](WP4/D4_8.pdf): Deliverable 4.8: Quality Assessment for the Statistical Use of Web Scraped Data
