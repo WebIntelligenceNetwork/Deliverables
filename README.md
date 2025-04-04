@@ -1,5 +1,5 @@
 # Deliverables
-This is a place to store the deliverables from the ESSnet Web Intelligence Network for reference
+This is a place to store the deliverables from the [ESSnet Web Intelligence Network](https://cros.ec.europa.eu/dashboard/web-intelligence-network) for reference
 
 The Trusted Smart Statistics – Web Intelligence Network project has evolved from previous activities implemented between 2016-2020, throughout the course of the ESSnet Big Data and ESSnet on Big Data II projects, which targeted multi-purpose statistics based on an array of non-traditional data sources. This project will contribute to the establishment of the Web Intelligence Network (WIN) across the ESS and beyond. It will deliver this through a comprehensive and coordinated approach to building the web intelligence system at the ESS level, providing a greater chance to generate the right conditions for the integration of web data into official statistics, rather than via individual NSI efforts.The specific project objectives are to:
 Raise knowledge and strengthen web intelligence competencies in the use of the WIH services across the ESS and beyond
