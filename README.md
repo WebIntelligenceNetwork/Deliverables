@@ -14,6 +14,12 @@ WP 4   - Methodology and Quality
 
 # Table of content
 
+
+- [WP1/D1_5.pdf](WP1/D1_5.pdf): Final technical report
+
+- [WP2/D2_6.pdf](WP2/D2_6.pdf): Technical guidelines on the implementation of the scripts produced for OJA and OBEC statistics
+
+
 - [WP3/D3_4_WP3_UC1.pdf](WP3/D3_4_WP3_UC1.pdf): Final report UC1 on Characteristics of the real estate market
 - [WP3/D3_6_WP3_UC2.pdf](WP3/D3_6_WP3_UC2.pdf): Final report UC2 on Construction activities
 - [WP3/D3_7_WP3_UC3.pdf](WP3/D3_7_WP3_UC3.pdf): Final report UC3 on Online prices of household appliances and audio-visual, photographic and information
