@@ -19,6 +19,8 @@ WP 4   - Methodology and Quality
 
 - [WP2/D2_6.pdf](WP2/D2_6.pdf): Technical guidelines on the implementation of the scripts produced for OJA and OBEC statistics
 
+- [WP2/URL_finding_methodology.pdf](WP2/URL_finding_methodology.pdf): Report: URL finding methodology (shared report of WP2 and Wp3)
+
 
 - [WP3/D3_4_WP3_UC1.pdf](WP3/D3_4_WP3_UC1.pdf): Final report UC1 on Characteristics of the real estate market
 - [WP3/D3_6_WP3_UC2.pdf](WP3/D3_6_WP3_UC2.pdf): Final report UC2 on Construction activities
